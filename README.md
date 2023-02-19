@@ -1,3 +1,3 @@
 # resepr1.0
 Проект делался 3 дня....
-ссылка:
+ссылка:https://broker2007.github.io/resepr1.0
